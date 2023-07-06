@@ -1,11 +1,11 @@
 #include<stdio.h>
 #include<stdlib.h> 
 #include<time.h>   
-#include<unistd.h> 
+#include<unistd.h>   // delay function sleep()
 int main()
 {
     int num ;    // decare a variable  that is use in loop 
-      srand(time(NULL)); // seed the random number genrerate  with the current time  
+      srand(time(NULL)); // seed the random number genrerator  with  current time.  
 
       while(1)   // Infinite loop
       {
