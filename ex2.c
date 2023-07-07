@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h> 
-#include<time.h>   
-#include<unistd.h>   // delay function sleep()
+#include<time.h>   // for using time 
+#include<unistd.h>   // for delay function sleep()
 int main()
 {
     int num ;    // decare a variable  that is use in loop 
