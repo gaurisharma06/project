@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h> // this header file contain function  rand(), srand().
-#include<time.h>   // this header file 
+#include<time.h> 
 #include<unistd.h> 
 int main()
 {
